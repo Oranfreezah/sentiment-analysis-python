@@ -1,102 +1,37 @@
 subreddit,ratio
 /r/announcements,5
-/r/funny,No comment sentiment
-/r/AskReddit,7
-/r/todayilearned,6
+/r/AskReddit,4
+/r/todayilearned,5
 /r/science,5
-/r/worldnews,0
-/r/pics,4
-/r/IAmA,No comment sentiment
+/r/worldnews,-1
+/r/pics,8
 /r/gaming,10
-/r/videos,4
-/r/movies,No comment sentiment
-/r/aww,No comment sentiment
-/r/Music,No comment sentiment
+/r/videos,3
 /r/blog,10
-/r/gifs,No comment sentiment
-/r/news,3
-/r/explainlikeimfive,No comment sentiment
-/r/askscience,No comment sentiment
-/r/EarthPorn,9
-/r/books,No comment sentiment
-/r/television,No comment sentiment
-/r/mildlyinteresting,No comment sentiment
-/r/LifeProTips,No comment sentiment
-/r/Showerthoughts,No comment sentiment
-/r/space,No comment sentiment
-/r/DIY,No comment sentiment
-/r/Jokes,No comment sentiment
-/r/gadgets,No comment sentiment
-/r/nottheonion,-1
-/r/sports,6
-/r/tifu,No comment sentiment
-/r/food,No comment sentiment
-/r/photoshopbattles,No comment sentiment
-/r/Documentaries,No comment sentiment
-/r/Futurology,No comment sentiment
-/r/history,No comment sentiment
+/r/news,8
+/r/EarthPorn,11
+/r/nottheonion,2
+/r/sports,7
 /r/InternetIsBeautiful,6
-/r/dataisbeautiful,No comment sentiment
-/r/UpliftingNews,6
-/r/listentothis,No comment sentiment
-/r/GetMotivated,No comment sentiment
-/r/personalfinance,No comment sentiment
-/r/OldSchoolCool,10
-/r/philosophy,No comment sentiment
-/r/Art,37
-/r/nosleep,No comment sentiment
-/r/WritingPrompts,No comment sentiment
-/r/creepy,9
-/r/TwoXChromosomes,No comment sentiment
-/r/Fitness,No comment sentiment
-/r/technology,No comment sentiment
+/r/UpliftingNews,19
+/r/OldSchoolCool,9
+/r/Art,27
+/r/creepy,8
 /r/WTF,4
-/r/bestof,-5
-/r/AdviceAnimals,No comment sentiment
-/r/politics,No comment sentiment
-/r/atheism,0
-/r/interestingasfuck,No comment sentiment
-/r/europe,No comment sentiment
-/r/woahdude,No comment sentiment
-/r/BlackPeopleTwitter,No comment sentiment
-/r/oddlysatisfying,9
-/r/gonewild,No comment sentiment
-/r/leagueoflegends,No comment sentiment
-/r/pcmasterrace,No comment sentiment
+/r/bestof,2
+/r/atheism,-2
+/r/oddlysatisfying,10
 /r/reactiongifs,3
-/r/gameofthrones,No comment sentiment
-/r/wholesomememes,No comment sentiment
-/r/Unexpected,No comment sentiment
-/r/Overwatch,No comment sentiment
-/r/facepalm,No comment sentiment
-/r/trees,No comment sentiment
-/r/Android,No comment sentiment
 /r/lifehacks,8
-/r/me_irl,No comment sentiment
-/r/relationships,11
-/r/Games,No comment sentiment
-/r/nba,No comment sentiment
-/r/programming,7
-/r/tattoos,No comment sentiment
+/r/relationships,12
+/r/programming,8
 /r/NatureIsFuckingLit,7
 /r/Whatcouldgowrong,2
-/r/CrappyDesign,No comment sentiment
 /r/dankmemes,4
-/r/nsfw,18
+/r/nsfw,11
 /r/cringepics,4
-/r/4chan,-2
-/r/soccer,No comment sentiment
-/r/comics,6
-/r/sex,No comment sentiment
-/r/pokemon,No comment sentiment
-/r/malefashionadvice,No comment sentiment
-/r/NSFW_GIF,17
-/r/StarWars,No comment sentiment
-/r/Frugal,No comment sentiment
-/r/HistoryPorn,No comment sentiment
-/r/AnimalsBeingJerks,No comment sentiment
+/r/4chan,-3
+/r/comics,5
+/r/NSFW_GIF,8
 /r/RealGirls,21
-/r/travel,No comment sentiment
-/r/buildapc,No comment sentiment
-/r/OutOfTheLoop,No comment sentiment
 /r/TrendingReddits,-13

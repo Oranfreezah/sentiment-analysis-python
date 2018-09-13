@@ -20,16 +20,16 @@ with open('./files/subreddits.txt') as f:
         num_comments = 0
 
         for submission in sub_submissions:
-            if submission.num_comments <= 200:
-                if not submission.stickied:
-                    submission.comments.replace_more(limit=0)
-                    for comment in submission.comments.list():
-                        blob = TextBlob(comment.body)
+            # if submission.num_comments <= 200:
+            if not submission.stickied:
+                submission.comments.replace_more(limit=0)
+                for comment in submission.comments.list():
+                    blob = TextBlob(comment.body)
 
-                        comment_sentiment = blob.sentiment.polarity
-                        sub_sentiment += comment_sentiment
+                    comment_sentiment = blob.sentiment.polarity
+                    sub_sentiment += comment_sentiment
 
-                        num_comments += 1
+                    num_comments += 1
 
         ratio['subreddit'].append('/r/' + str(subreddit.display_name))
         print('/r/' + str(subreddit.display_name))
@@ -42,6 +42,6 @@ with open('./files/subreddits.txt') as f:
             print('No comment sentiment' + '\n')
             ZeroDivisionError
 df = pd.DataFrame(ratio)
-df.drop(df.ratio != 'No comment sentiment')
+df = df[df.ratio != 'No comment sentiment']
 
 df.to_csv('./files/sentiment_ratio.csv', sep=',', encoding='utf8', index=False)
